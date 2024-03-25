@@ -19,7 +19,7 @@ else
 
 about();
 
-// Função com Retorno
+// Função com Retorno 
 function somar(num1: number, num2: number): number{
     return num1 + num2;
 }
