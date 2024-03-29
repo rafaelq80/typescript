@@ -9,4 +9,8 @@ export class Corredor extends Atleta {
     public correr(): void{
         console.log("Correndo...");
     }
+
+    public aquecer(): void {
+        console.log("Aquecendo na pista...")
+    }
 }

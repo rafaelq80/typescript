@@ -9,4 +9,9 @@ export class Nadador extends Atleta {
     public nadar(): void{
         console.log("Nadando...");
     }
+
+    public aquecer(): void {
+        console.log("Aquecendo na piscina...")
+    }
+
 }
