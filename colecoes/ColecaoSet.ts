@@ -1,4 +1,4 @@
-﻿// Cria a Coleção Set
+﻿// Cria a KiwiColeção Set
 const frutas: Set<string> = new Set<string>();
 
 // Adicionar uma fruta de cada vez
